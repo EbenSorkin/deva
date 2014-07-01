@@ -1,0 +1,12 @@
+/* Webfont: TestA */@font-face {
+    font-family: 'TestA';
+    src: url('TestA.eot'); /* IE9 Compat Modes */
+    src: url('TestA.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('TestA.woff') format('woff'), /* Modern Browsers */
+         url('TestA.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('TestA.svg#TestA') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
