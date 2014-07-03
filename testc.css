@@ -1,0 +1,85 @@
+/* Webfont: TestA */@font-face {
+    font-family: 'TestA';
+    src: url('TestA.eot'); /* IE9 Compat Modes */
+    src: url('TestA.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('TestA.woff') format('woff'), /* Modern Browsers */
+         url('TestA.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('TestA.svg#TestA') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+
+body { font-family: "TestA", Georgia; 
+	background-color: #ffffff;
+	line-height: 1.25;
+	text-align: left;
+	margin-left: 10%; margin-right: 10%; overflow-x: hidden; max-width: 80%; margin: 0 auto;
+	margin-left: 5px; margin-right: 5px; overflow-x: hidden; max-width: 470px; margin: 0 auto;
+    font-size: 45px;
+}
+
+  p {
+
+	font-style: normal;
+	
+}
+  
+     a {
+      text-decoration: none;
+    }
+    
+    .rl {
+    font-size: 20px;
+    font-weight: 1600;
+    font-style: bold;
+    font-style: normal;
+    color: #990000;
+    margin-top:1em;
+    
+}
+    
+      
+.reg, .r6, .r7, .r8, .r9, .r10, .r11, .r12, .r13, .r14, .r16, .r18, .r20, .r22, .r24, .r28, .r32, .r34, .r36, .r48,{   
+	font-weight: 400;
+    font-style: normal;
+  
+}
+
+
+.r112 { font-size: 112px; }
+
+.r56 { font-size: 56px; }
+
+.r45 { font-size: 45px; }
+
+.r36 { font-size: 36px; }
+
+.r34 { font-size: 34px; }
+.r32 { font-size: 32px; }
+
+.r24 { font-size: 24px; }
+
+.r20 { font-size: 20px; }
+
+.r16 { font-size: 16px; }
+
+.r15 { font-size: 15px; }
+
+.r14 { font-size: 14px; }
+
+.r14sc { font-size: 14px; text-transform: lowercase;
+	-moz-font-feature-settings:'smcp=1';}
+
+.r13 { font-size: 13px; }
+
+.r12 { font-size: 12px; }
+
+.r11 { font-size: 11px; }
+
+.r10 { font-size: 10px; }
+
+.r9 { font-size: 9px; }
+
+.r8 { font-size: 8px; }
+}
+
